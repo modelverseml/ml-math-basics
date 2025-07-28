@@ -24,8 +24,8 @@ Here are the forumals for both populations and sample
 
 | Term                | Notation     | Formula                                                                 |
 |---------------------|--------------|-------------------------------------------------------------------------|
-| Population Size     | $$ N  $$ | Number of items                                                         |
-| Population Mean     | $$ \mu    $$| $$ \frac{1}{N} \sum_{i=1}^{N} X_i $$                              |
+| Population Size     |  N | Number of items                                                         |
+| Population Mean     | <pre> μ = (ΣX) / N </pre>| $$ \frac{1}{N} \sum_{i=1}^{N} X_i $$                              |
 | Population Variance | $$ \sigma^2 $$ | $$ \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 $$               |
 
 
