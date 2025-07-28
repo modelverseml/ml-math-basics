@@ -34,8 +34,8 @@ Here are the forumals for both populations and sample
 | Population Variance | σ²       | (1 / N) × Σ (xᵢ - μ)²          |
 
 
-<br>
 #### **Sample Statistics**
+
 <br>
 
 | Term              | Notation | Formula                            |
