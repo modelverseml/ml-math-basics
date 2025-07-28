@@ -5,7 +5,8 @@ Before understanding any machine learning model, it is essential to understand s
 Two of the most important topics are inferential statistics and hypothesis testing
 
 
-
+<br><br>
+<br><br>
 ## Inferential Statistics 
 
 When we talk about mean and variance, we usually refer to the sample rather than the entire population. But have we ever wondered why we rely on a sample instead of the full population?
