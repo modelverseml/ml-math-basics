@@ -3,9 +3,6 @@
 Before understanding any machine learning model, it is essential to understand some basic mathematical concepts.
 
 Two of the most important topics are inferential statistics and hypothesis testing
-
-
-<br><br>
 <br><br>
 ## Inferential Statistics 
 
@@ -13,8 +10,7 @@ When we talk about mean and variance, we usually refer to the sample rather than
 
 Calculating population parameters is often impractical because it requires a large amount of memory, extensive computation, and significant time. However, by analyzing sample data, we can estimate population parameters with a certain level of confidence—which is often sufficient in practice.
 
-
-
+<br><br>
 Example:
 Let’s say a food inspection team visits a food production factory for a surprise inspection. They want to verify whether the factory is following the ingredient quantities or nutritional values mentioned on the product packaging. Since the factory produces a large number of items, it’s not feasible to test every single product. Instead, the team selects a random sample of products and tests them.
 If the sample meets the required standards, the factory is considered compliant. Otherwise, it may be flagged for violating regulations.
@@ -23,13 +19,13 @@ This raises another important question: What do we mean by "confidence"? And how
 we will address all those questions here.
 
 
-
+<br><br>
 Here are the forumals for both populations and sample
 
 
 #### **Population Statistics**
 
-
+<br>
 
 | Term                | Notation | Formula                        |
 |---------------------|----------|--------------------------------|
@@ -38,9 +34,9 @@ Here are the forumals for both populations and sample
 | Population Variance | σ²       | (1 / N) × Σ (xᵢ - μ)²          |
 
 
-
+<br>
 #### **Sample Statistics**
-
+<br>
 
 | Term              | Notation | Formula                            |
 |-------------------|----------|-------------------------------------|
