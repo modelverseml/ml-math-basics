@@ -34,7 +34,7 @@ Here are the forumals for both populations and sample
 | Term              | Notation        | Formula                                                                      |
 |-------------------|------------------|-------------------------------------------------------------------------------|
 | Sample Size       | $$ n  $$     | Number of sampled items                                                       |
-| Sample Mean       | $$ \bar{X}   $$ | $$ \frac{1}{n} \sum_{i=1}^{n} X_i $$                                |
+| Sample Mean       | $$ \bar{X}   $$ | $ \frac{1}{n} \sum_{i=1}^{n} X_i $                                  |
 | Sample Variance   |$$ S^2    $$ | $$ \frac{1}{n - 1} \sum_{i=1}^{n} (X_i - \bar{X})^2 $$                  |
 
 
