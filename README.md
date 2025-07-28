@@ -22,19 +22,21 @@ Here are the forumals for both populations and sample
 
 #### **Population Statistics**
 
-| Term                | Notation     | Formula                                                                 |
-|---------------------|--------------|-------------------------------------------------------------------------|
-| Population Size     |  N | Number of items                                                         |
-| Population Mean     | <pre> ```markdown μ = (ΣX) / N x̄ = (Σx) / n ``` </pre>| $$ \frac{1}{N} \sum_{i=1}^{N} X_i $$                              |
-| Population Variance | $$ \sigma^2 $$ | $$ \frac{1}{N} \sum_{i=1}^{N} (x_i - \mu)^2 $$               |
+
+| Term                | Notation | Formula                        |
+|---------------------|----------|--------------------------------|
+| Population Size     | N        | Number of items                |
+| Population Mean     | μ        | (1 / N) × Σ (xᵢ)               |
+| Population Variance | σ²       | (1 / N) × Σ (xᵢ - μ)²          |
 
 
 #### **Sample Statistics**
 
-| Term              | Notation        | Formula                                                                      |
-|-------------------|------------------|-------------------------------------------------------------------------------|
-| Sample Size       | $$ n  $$     | Number of sampled items                                                       |
-| Sample Mean       | $$ \bar{X}   $$ | $ \frac{1}{n} \sum_{i=1}^{n} X_i $                                  |
-| Sample Variance   |$$ S^2    $$ | $$ \frac{1}{n - 1} \sum_{i=1}^{n} (X_i - \bar{X})^2 $$                  |
+| Term              | Notation | Formula                            |
+|-------------------|----------|-------------------------------------|
+| Sample Size       | n        | Number of sampled items             |
+| Sample Mean       | x̄        | (1 / n) × Σ (xᵢ)                    |
+| Sample Variance   | s²       | (1 / (n - 1)) × Σ (xᵢ - x̄)²        |
+
 
 
