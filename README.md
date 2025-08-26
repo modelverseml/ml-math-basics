@@ -1,4 +1,4 @@
-# ML Mathemetics Basics
+# ML Mathematics Basics
 
 Before understanding any machine learning model, it is essential to understand some basic mathematical concepts.
 
